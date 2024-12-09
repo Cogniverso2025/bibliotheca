@@ -153,5 +153,23 @@ La biblioteca utiliza las principales categorías de la CDD para clasificar sus 
 Esta biblioteca es un proyecto abierto y en constante expansión. Si deseas agregar libros o mejorar el sistema, contacta a Scio Medios o realiza un pull request en el repositorio.
 
 ---
+## **Misión**
+
+Fomentar el aprendizaje y la exploración del conocimiento a través de una plataforma accesible y bien organizada, que permita a los usuarios descubrir y profundizar en una amplia gama de temas.  
+
+---
+
+## **Visión**
+
+Convertirse en un referente de bibliotecas digitales organizadas, promoviendo el uso de herramientas modernas para facilitar el acceso al conocimiento.  
+
+---
+
+## **Inspiración filosófica**
+
+_"Leer un buen libro es conversar con las mentes más sabias de los siglos pasados."_  
+René Descartes.
+
+Scio Medios cree que cada libro es una puerta al entendimiento, y su organización busca reflejar este principio al facilitar el descubrimiento de obras esenciales en todas las disciplinas.  
 
 © 2024 Scio Medios. Promoviendo el conocimiento organizado.
