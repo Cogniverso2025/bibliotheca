@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Scio Medios</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Biblioteca Virtual Scio Medios</h1>
+        <p>Organizada según la Clasificación Decimal Dewey (CDD) y fundamentada en el Método de Descartes.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Buscar libros</h2>
+            <input type="text" id="searchInput" placeholder="Escribe el título, clasificación o autor...">
+            <button onclick="searchBooks()">Buscar</button>
+        </section>
+
+        <section id="bookList">
+            <h2>Lista de libros</h2>
+            <div id="booksContainer"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Scio Medios. Promoviendo el conocimiento organizado.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
