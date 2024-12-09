@@ -10,10 +10,10 @@
     {
         "title": "Introducción a la Ciencia",
         "author": "Ana",
-        "classification": "500",
-        "category": "Ciencias Naturales y Matemáticas",
+        "classification": "100",
+        "category": "introduccion-a la filosofia de la ciencia",
         "description": "Una obra que explora los principios fundamentales de la ciencia y su impacto en el desarrollo del conocimiento humano.",
-        "location": "biblioteca/500/Introduccion_a_la_Ciencia.pdf"
+        "location": "biblioteca/100/introduccion-a-la-filosofia-de-la-ciencia_estany.pdf"
     },
     {
         "title": "Historia Universal",
