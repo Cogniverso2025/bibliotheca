@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Discurso del método",
+        "author": "René Descartes",
+        "classification": "100",
+        "category": "Filosofía y Psicología",
+        "description": "Un tratado filosófico que propone una metodología basada en la claridad y la evidencia, que se ha convertido en uno de los pilares del pensamiento occidental.",
+        "location": "biblioteca/100/Discurso_del_Metodo.pdf"
+    },
+    {
+        "title": "Introducción a la Ciencia",
+        "author": "Ana",
+        "classification": "500",
+        "category": "Ciencias Naturales y Matemáticas",
+        "description": "Una obra que explora los principios fundamentales de la ciencia y su impacto en el desarrollo del conocimiento humano.",
+        "location": "biblioteca/500/Introduccion_a_la_Ciencia.pdf"
+    },
+    {
+        "title": "Historia Universal",
+        "author": "Carlos",
+        "classification": "900",
+        "category": "Historia y Geografía",
+        "description": "Un análisis profundo de los eventos históricos clave que han definido la civilización humana.",
+        "location": "biblioteca/900/Historia_Universal.pdf"
+    }
+]
