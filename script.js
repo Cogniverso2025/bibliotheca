@@ -5,13 +5,18 @@ fetch('books.json')
     .then(response => response.json())
     .then(data => {
         books = data;
-        displayBooks(books);
+        displayBooks(books); // Mostrar todos los libros inicialmente
     });
 
 // Mostrar libros en la página
 function displayBooks(bookList) {
     const booksContainer = document.getElementById('booksContainer');
     booksContainer.innerHTML = '';
+
+    if (bookList.length === 0) {
+        booksContainer.innerHTML = `<p>No se encontraron resultados. Intenta con otro término.</p>`;
+        return;
+    }
 
     bookList.forEach(book => {
         const bookDiv = document.createElement('div');
@@ -33,8 +38,10 @@ function searchBooks() {
     const searchInput = document.getElementById('searchInput').value.toLowerCase();
     const filteredBooks = books.filter(book =>
         book.title.toLowerCase().includes(searchInput) ||
+        book.author.toLowerCase().includes(searchInput) ||
         book.classification.includes(searchInput) ||
-        book.author.toLowerCase().includes(searchInput)
+        book.description.toLowerCase().includes(searchInput)
     );
+
     displayBooks(filteredBooks);
 }
