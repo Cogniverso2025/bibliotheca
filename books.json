@@ -16,6 +16,16 @@
         "location": "biblioteca/100/introduccion-a-la-filosofia-de-la-ciencia_estany.pdf"
     },
     {
+        "title": "clasificacion bibliotecas publicas",
+        "author": "María Pérez Bello",
+        "classification": "020",
+        "category": "Bibliotecología y ciencias de la información.",
+        "description": "El presente documento contiene las pautas básicas de normalización técnica para la
+clasificación de materiales bibliográficos, no bibliográficos y audiovisuales de los
+servicios de la Red Nacional de Bibliotecas Públicas de Venezuela.",
+        "location": "biblioteca/020/clasificacionbibliotecaspublicas.pdf"
+    },
+    {
         "title": "Historia Universal",
         "author": "Carlos",
         "classification": "900",
