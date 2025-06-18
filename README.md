@@ -1,6 +1,6 @@
-# Biblioteca Virtual Scio Medios
+# Biblioteca Cogniverso
 
-**Scio Medios** es una biblioteca virtual diseñada para proporcionar acceso a una amplia gama de libros organizados según la **Clasificación Decimal Dewey (CDD)**. Este sistema de clasificación organiza los libros por temas, asignándoles un código numérico único que permite una búsqueda y ubicación eficiente.
+**Cogniverso** es una biblioteca virtual diseñada para proporcionar acceso a una amplia gama de libros organizados según la **Clasificación Decimal Dewey (CDD)**. Este sistema de clasificación organiza los libros por temas, asignándoles un código numérico único que permite una búsqueda y ubicación eficiente.
 
 ---
 
